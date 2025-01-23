@@ -119,6 +119,5 @@ Proyek ini dirilis di bawah lisensi **MIT**.
 
 **Dikembangkan oleh:**
 - Syahrul Ramadhan
-- Tim Syahrul LG
 
 Semoga bermanfaat! 🎉
