@@ -1,5 +1,3 @@
----
-
 # **Mini Looking Glass**
 
 **Mini Looking Glass** adalah aplikasi berbasis web sederhana yang memungkinkan pengguna untuk menjalankan **ping** dan **traceroute (mtr)** terhadap target tertentu. Proyek ini dibangun menggunakan **PHP**, **JavaScript**, **TailwindCSS**, dan **Nginx** yang dijalankan dalam **Docker**.
