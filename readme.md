@@ -1,5 +1,3 @@
-Berikut adalah isi **README.md** untuk proyek **Mini Looking Glass**:
-
 ---
 
 # **Mini Looking Glass**
@@ -46,7 +44,7 @@ Pastikan Anda telah menginstal:
 ### **1. Clone Repository**
 Clone repository ini ke sistem Anda:
 ```bash
-git clone https://github.com/username/mini-looking-glass.git
+git clone https://github.com/syahrullrmdhn/local-looking-glass.git
 cd mini-looking-glass
 ```
 
